@@ -11,5 +11,5 @@ This modpack is in beta to reflect its possibly unstable nature and my commitmen
 
 ## Acknowledgements
 This repository does not contain any code or binary files of the constituent modifications to prevent licensing issues; rather it contains the configuration and metadata files that are packed into the .mrpack installation archive that I will update from time to time.
-My thanks to Randy (oldstories) who gave me permission to use the original texture I used for the modpack icons and the Monumenta Resource Pack team as a whole for their work.
+My thanks to Randy (oldstories) who gave me permission to use the textures I used for the modpack icons and the Monumenta Resource Pack team as a whole for their work.
 My thanks to mod, launcher, tool and other creators for their work on making Minecraft a better game for all.
