@@ -1,0 +1,1 @@
+Interested in contributing to the modpack? Feel free to find me on the official [Monumenta Discord](https://discord.gg/monumenta) or open a new [Issue](https://github.com/Spy21DD/spys-monumenta-modpacks/issues/new) right here on GitHub.
