@@ -50,9 +50,9 @@
     "cloud_height": 192,
     "toasts": true,
     "advancement_toast": true,
-    "recipe_toast": false,
+    "recipe_toast": true,
     "system_toast": true,
-    "tutorial_toast": false,
+    "tutorial_toast": true,
     "instant_sneak": false,
     "prevent_shaders": false
   },

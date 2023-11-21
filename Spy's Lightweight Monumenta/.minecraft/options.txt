@@ -23,11 +23,11 @@ darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.5
-screenEffectScale:1.0
-fovEffectScale:1.0
+screenEffectScale:0.0
+fovEffectScale:0.0
 darknessEffectScale:1.0
-glintSpeed:0.5
-glintStrength:0.75
+glintSpeed:0.0
+glintStrength:0.0
 damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
@@ -36,7 +36,7 @@ simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:0
 particles:0
-maxFps:120
+maxFps:260
 graphicsMode:1
 ao:true
 prioritizeChunkUpdates:0
@@ -53,7 +53,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
