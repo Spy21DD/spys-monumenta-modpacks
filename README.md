@@ -7,7 +7,7 @@
 This modpack is in beta to reflect its possibly unstable nature, therefore I will be adding and removing mods/features as needed. A list of all mods and their associated metadata is available on the GitHub repository, which I am committed to keeping up to date.
 
 ## Spy's Full-Fat Monumenta
-**Spy's Full-Fat Monumenta** contains all of the mods I personally use when playing on Monumenta. At the time of writing, it is currently a work in progress and has not been publically released.
+**Spy's Full-Fat Monumenta** contains all of the mods I personally use when playing on Monumenta. At the time of writing, it is currently a work in progress and has not been publicly released.
 
 ## Acknowledgements
 This repository does not contain any code or binary files of the constituent modifications to prevent licensing issues; rather it contains the configuration and metadata files that are packed into the .mrpack installation archive that I will update from time to time.
