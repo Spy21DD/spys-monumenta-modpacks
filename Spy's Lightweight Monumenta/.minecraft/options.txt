@@ -42,9 +42,9 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric"]
+resourcePacks:["vanilla","fabric","file/MonumentaMusicPack.zip"]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:server.playmonumenta.com
 lang:en_us
 soundDevice:""
 chatVisibility:0
@@ -68,14 +68,14 @@ useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
 narrator:0
-tutorialStep:movement
+tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -119,6 +119,8 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.r
+key_zoomify.key.zoom.secondary:key.keyboard.f6
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
