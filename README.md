@@ -4,7 +4,7 @@
 ## Spy's Lightweight Monumenta
 **[Spy's Lightweight Monumenta](https://modrinth.com/modpack/spys-lightweight-monumenta)** is a minimalist modpack for Monumenta containing the bare minimum for a fresh Fabric instance. It is meant to be as easy and bloat-free as possible for players unfamiliar with Minecraft modifications and Monumenta. If it is your first time installing a Fabric modpack, check out the [wiki](https://github.com/Spy21DD/spys-monumenta-modpacks/wiki) for a step-by-step tutorial on how to set one up.
 
-This modpack is in beta to reflect its possibly unstable nature, therefore I will be adding and removing mods/features as needed. A list of all mods and their associated metadata is available on the GitHub repository, which I am committed to keeping up to date.
+This modpack is now in full release! A list of all mods and their associated metadata is available on this GitHub repository, which I am committed to keeping up to date.
 
 ## Spy's Full-Fat Monumenta
 **Spy's Full-Fat Monumenta** contains all of the mods I personally use when playing on Monumenta. At the time of writing, it is currently a work in progress and has not been publicly released.
