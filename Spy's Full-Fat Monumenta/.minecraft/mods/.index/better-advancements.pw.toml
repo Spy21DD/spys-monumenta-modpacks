@@ -1,0 +1,13 @@
+filename = 'BetterAdvancements-Fabric-1.19.4-0.3.1.158.jar'
+name = 'Better Advancements'
+side = 'both'
+
+[download]
+hash = '46427de6a6918121978ae4ebdf66329ef0d5d91b4fa87ba736cb847568456e3f2bb3751e529f69f5df600eaf39029105c269fe078372ab07085fe39e6a87bf41'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Q2OqKxDG/versions/KcsAOipK/BetterAdvancements-Fabric-1.19.4-0.3.1.158.jar'
+
+[update.modrinth]
+mod-id = 'Q2OqKxDG'
+version = 'KcsAOipK'
