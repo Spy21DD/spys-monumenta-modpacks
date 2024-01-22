@@ -7,7 +7,9 @@
 This modpack is now in full release! A list of all mods and their associated metadata is available on this GitHub repository, which I am committed to keeping up to date.
 
 ## Spy's Full-Fat Monumenta
-**Spy's Full-Fat Monumenta** contains all of the mods I personally use when playing on Monumenta. At the time of writing, it is currently a work in progress and has not been publicly released.
+**Spy's Full-Fat Monumenta** contains all of the mods I personally use when playing on Monumenta. This modpack features several QoL mods such as the Unofficial Monumenta Mod, Better Advancements, and Better Ping Display. Since I prefer fast loading times and I dislike Essential, this modpack does not feature U5B's [USBPlus](https://github.com/U5B/usbplus) mod for the time being. If it is your first time installing a Fabric modpack, check out the [wiki](https://github.com/Spy21DD/spys-monumenta-modpacks/wiki) for a step-by-step tutorial on how to set one up.
+
+This modpack is currently in beta while I fine-tune the mod set and update the default configuration files. Feel free to suggest additional mods not mentioned on the [Honorable Mentions](https://github.com/Spy21DD/spys-monumenta-modpacks/wiki/Appendix-A-%E2%80%90-Honorable-Mentions,-or-Mods-I-Didn't-Include) page!
 
 ## Acknowledgements
 This repository does not contain any code or binary files of the constituent modifications to prevent licensing issues; rather it contains the configuration and metadata files that are packed into the .mrpack installation archive that I will update from time to time.
@@ -15,6 +17,6 @@ This repository does not contain any code or binary files of the constituent mod
 - Both modpacks include the [Monumenta Resource Pack](https://legacy.curseforge.com/minecraft/texture-packs/monumenta-mmo-resource-pack). You may view the Creative Commons "Attribution-Share Alike" by opening the included LICENSE.txt file. A full list of credits is included in the CREDITS.txt file.
 - Both modpacks include the [Monumenta Music Pack](https://files.playmonumenta.com/resource-packs/MonumentaMusicPack.zip). You may view the Creative Commons "Attribution-Share Alike" by opening the included LICENSE.txt file. A full list of credits is included in the CREDITS.txt file.
 - My thanks to Randy (oldstories) who gave me permission to use the textures I used for the modpack icons and the Monumenta Resource Pack team as a whole for their work.
-- Many thanks to [Vladomeme](https://github.com/Vladomeme) for his work on Vlado's Gross Hacks and his well-cited [Gist](https://gist.github.com/Vladomeme/23a215bb211c64bff74ef702302f347e) on how to set up an environment for Monumenta, which I have adapted extensively for my wiki.
+- Many thanks to [Vladomeme](https://github.com/Vladomeme) for his work on [Vlado's Gross Hacks](https://github.com/Vladomeme/gross-hacks) which I have included in the Full-Fat version and his well-cited [Gist](https://gist.github.com/Vladomeme/23a215bb211c64bff74ef702302f347e) on how to set up an environment for Monumenta, which I have adapted extensively for my wiki.
 - Many thanks to [U5B](https://github.com/U5B) for his work on [USBPlus](https://github.com/U5B/usbplus) and the pre-merge Non-OptiFine Monumenta Resource Pack.
 - My thanks to mod, launcher, tool and other creators for their work on making Minecraft a better game for all.
