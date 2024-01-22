@@ -1,0 +1,21 @@
+{
+    "enable_extra_buttons": true,
+    "disable_dismouting": false,
+    "offhand_equip": true,
+    "thrown_trident_texture": true,
+    "custom_trident_projectile": false,
+    "trident_size": 1.0,
+    "per_trident_scaling": false,
+    "nightmare_timer": true,
+    "time_remaining": 10,
+    "remove_interactions": false,
+    "fix_mount_desync": true,
+    "fix_sign_screens": false,
+    "mute_horns": true,
+    "clean_logs": true,
+    "spawner_culling": false,
+    "extra_range": 4,
+    "range_mode": false,
+    "range": 16,
+    "hide_handheld": false
+}
