@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric"]
+resourcePacks:["vanilla","fabric","file/MonumentaMusicPack.zip","file/MonumentaRP_v5.0.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:server.playmonumenta.com
 lang:en_us
@@ -118,14 +118,16 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.dynamicfullbright.toggle:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_key.dynamicfullbright.toggle:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_Dismount:key.keyboard.u
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_njols-ui-framework.key.editHud:key.keyboard.unknown
 key_unofficial-monumenta-mod.keybinds.toggleCalculator:key.keyboard.k
 key_unofficial-monumenta-mod.keybinds.lock_slot:key.keyboard.o
+key_bind.category.viewboboptions.exclude:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.r
 key_zoomify.key.zoom.secondary:key.keyboard.f6
 soundCategory_master:1.0
