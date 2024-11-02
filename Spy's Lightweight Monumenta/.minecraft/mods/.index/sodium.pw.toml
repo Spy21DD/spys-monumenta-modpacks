@@ -1,13 +1,16 @@
-filename = 'sodium-fabric-mc1.19.4-0.4.10+build.24.jar'
+filename = 'sodium-fabric-0.5.8+mc1.20.4.jar'
 name = 'Sodium'
-side = 'client'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '61562626870aa4067657d2687d1fce80fb7d62af32fd68a22708e24ee5b84b39d16b26ccf4db8f53f2da42ba1916d6a5e11efc476cb5c2a8644207659fd5dfef'
+hash = 'bd00b956bde1205171e744a6a3780e835fb6928eb667fb2b56467818c979fb1e8c82561380a71a7dbfa1516cd4b6cf9087ca99f1ae066da6d65af2c828b8d554'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar'
+url = 'https://cdn.modrinth.com/data/AANobbMI/versions/4GyXKCLd/sodium-fabric-0.5.8%2Bmc1.20.4.jar'
 
 [update.modrinth]
 mod-id = 'AANobbMI'
-version = 'b4hTi3mo'
+version = '4GyXKCLd'
