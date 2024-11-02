@@ -1,4 +1,4 @@
-version:3337
+version:3700
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:false
@@ -15,12 +15,13 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
+hideSplashTexts:false
 mouseSensitivity:0.5
 fov:0.5
 screenEffectScale:0.0
@@ -30,6 +31,7 @@ glintSpeed:0.0
 glintStrength:0.0
 damageTiltStrength:1.0
 highContrast:false
+narratorHotkey:true
 gamma:1.0
 renderDistance:12
 simulationDistance:12
@@ -42,8 +44,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","file/MonumentaRP_v5.3.0.zip","file/MonumentaMusicPack_v2.6.0.zip"]
+incompatibleResourcePacks:["yet_another_config_lib_v3","file/MonumentaRP_v5.3.0.zip","file/MonumentaMusicPack_v2.6.0.zip"]
 lastServer:server.playmonumenta.com
 lang:en_us
 soundDevice:""
