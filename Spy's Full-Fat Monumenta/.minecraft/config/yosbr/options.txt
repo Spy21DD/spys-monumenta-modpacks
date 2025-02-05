@@ -1,4 +1,4 @@
-version:3337
+version:3700
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:false
@@ -21,6 +21,7 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
+hideSplashTexts:false
 mouseSensitivity:0.5
 fov:0.5
 screenEffectScale:0.0
@@ -30,6 +31,7 @@ glintSpeed:0.0
 glintStrength:0.0
 damageTiltStrength:1.0
 highContrast:false
+narratorHotkey:true
 gamma:1.0
 renderDistance:12
 simulationDistance:12
@@ -42,8 +44,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","file/MonumentaMusicPack_v3.0.0.zip","file/MonumentaRP_v5.4.1.zip"]
+incompatibleResourcePacks:["betteradvancements","modernfix","yet_another_config_lib_v3"]
 lastServer:server.playmonumenta.com
 lang:en_us
 soundDevice:""
@@ -118,7 +120,15 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
+key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_key.dynamicfullbright.toggle:key.keyboard.unknown
+key_key.entityculling.toggle:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_njols-ui-framework.key.editHud:key.keyboard.unknown
+key_unofficial-monumenta-mod.keybinds.toggleCalculator:key.keyboard.k
+key_unofficial-monumenta-mod.keybinds.lock_slot:key.keyboard.o
+key_viewboboptions.add_item_bind:key.keyboard.z
 key_zoomify.key.zoom:key.keyboard.r
 key_zoomify.key.zoom.secondary:key.keyboard.f6
 soundCategory_master:1.0
