@@ -1,13 +1,16 @@
-filename = 'fabric-api-0.87.2+1.19.4.jar'
+filename = 'fabric-api-0.97.2+1.20.4.jar'
 name = 'Fabric API'
 side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.4' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'd839c678699130db605ac580484b5193c302dfa1ed91014c138cb1354874cef0d16580c7c11bedece3cf8a027ddbb4755d4924f6045970a6af608ff0fed898eb'
+hash = '8f02bf562781a2f08294736eff784b7e7463be1595b1e3b4f53d4dcb57fc0643890078265141c3bce882dfec6e77553d2db252992fdfbd55cd7d32777adb9d78'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/P7dR8mSH/versions/nyAmoHlr/fabric-api-0.87.2%2B1.19.4.jar'
+url = 'https://cdn.modrinth.com/data/P7dR8mSH/versions/QVBohPm2/fabric-api-0.97.2%2B1.20.4.jar'
 
 [update.modrinth]
 mod-id = 'P7dR8mSH'
-version = 'nyAmoHlr'
+version = 'QVBohPm2'

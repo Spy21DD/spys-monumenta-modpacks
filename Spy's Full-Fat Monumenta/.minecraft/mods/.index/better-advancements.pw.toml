@@ -1,13 +1,16 @@
-filename = 'BetterAdvancements-Fabric-1.19.4-0.3.1.158.jar'
+filename = 'BetterAdvancements-Fabric-1.20.4-0.4.2.8.jar'
 name = 'Better Advancements'
 side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.4' ]
+x-prismlauncher-release-type = 'alpha'
 
 [download]
-hash = '46427de6a6918121978ae4ebdf66329ef0d5d91b4fa87ba736cb847568456e3f2bb3751e529f69f5df600eaf39029105c269fe078372ab07085fe39e6a87bf41'
+hash = '2eb927ada6c3ac82f81d53355bc41e9c638ef32d1154f3340ec9c355b18895ef321ed5b60849bf26379c2eba517efa00b88c62fd9e4f36c64de5328c3be28dae'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Q2OqKxDG/versions/KcsAOipK/BetterAdvancements-Fabric-1.19.4-0.3.1.158.jar'
+url = 'https://cdn.modrinth.com/data/Q2OqKxDG/versions/48lJWucY/BetterAdvancements-Fabric-1.20.4-0.4.2.8.jar'
 
 [update.modrinth]
 mod-id = 'Q2OqKxDG'
-version = 'KcsAOipK'
+version = '48lJWucY'

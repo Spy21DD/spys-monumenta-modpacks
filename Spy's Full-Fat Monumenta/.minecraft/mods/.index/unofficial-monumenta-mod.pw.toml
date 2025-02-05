@@ -1,13 +1,16 @@
-filename = 'unofficial-monumenta-mod-mc1.19.4-PRE-ZENITH-1.9.9.jar'
+filename = 'unofficial-monumenta-mod-mc1.20.4-1.10.jar'
 name = 'Unofficial Monumenta Mod'
-side = 'client'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.4' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a5298c9430966b14bd5b29c3aa51a79dbb7c6a2568e8a9b9be3b5d096b42ca411199920f9ad91d10ea6c6d7765d0e87c4dc75e1a6f526f2861a90e89fd7532ef'
+hash = 'ae7eb40b4e1cfb2236d05558e716d91c59999bfcbb9e50f6e4be8fe153937bdb2ca50b8c6165567e3803d789d15ac6af93086480e580c316f4b72f11cc9cd73e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/5GO3q639/versions/EMJMGiCz/unofficial-monumenta-mod-mc1.19.4-PRE-ZENITH-1.9.9.jar'
+url = 'https://cdn.modrinth.com/data/5GO3q639/versions/mbs17xsz/unofficial-monumenta-mod-mc1.20.4-1.10.jar'
 
 [update.modrinth]
 mod-id = '5GO3q639'
-version = 'EMJMGiCz'
+version = 'mbs17xsz'

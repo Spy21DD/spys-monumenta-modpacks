@@ -59,7 +59,16 @@
   "abilitiesDisplay_alwaysShowAbilitiesWithCharges": false,
   "abilitiesDisplay_condenseOnlyOnCooldown": false,
   "abilitiesDisplay_showPassiveAbilities": false,
-  "abilitiesDisplay_order": [],
+  "abilitiesDisplay_order": [
+    "cleric/celestial blessing",
+    "cleric/choir bells",
+    "cleric/cleansing rain",
+    "cleric/hand of light",
+    "cleric/holy javelin",
+    "cleric/illuminate",
+    "cleric/luminous infusion",
+    "cleric/divine justice"
+  ],
   "discordEnabled": true,
   "discordDetails": "{player} is in {shard}",
   "hideShardMode": false,
@@ -84,10 +93,12 @@
     "alignX": 1.0,
     "alignY": 0.0
   },
+  "chestCount_disablePacketMaxOverride": false,
   "debugOptionsEnabled": false,
   "logPackets": false,
-  "shardDebug": false,
   "enableChestCountMaxError": true,
   "logEffectPackets": false,
-  "lock_renderDebuggingAdvancedLock": false
+  "lock_renderDebuggingAdvancedLock": false,
+  "shardDebug": false,
+  "notifyDebugMessages": false
 }
