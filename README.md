@@ -4,12 +4,12 @@
 ## Spy's Lightweight Monumenta
 **[Spy's Lightweight Monumenta](https://modrinth.com/modpack/spys-lightweight-monumenta)** is a minimalist modpack for Monumenta containing the bare minimum for a fresh Fabric instance. It is meant to be as easy and bloat-free as possible for players unfamiliar with Minecraft modifications and Monumenta. If it is your first time installing a Fabric modpack, check out the [wiki](https://github.com/Spy21DD/spys-monumenta-modpacks/wiki) for a step-by-step tutorial on how to set one up.
 
-This modpack is now in full release! A list of all mods and their associated metadata is available on this GitHub repository, which I am committed to keeping up to date.
+This modpack is in full release! A list of all mods and their associated metadata is available on this GitHub repository, which I will update as I update the modpack.
 
 ## Spy's Full-Fat Monumenta
 **Spy's Full-Fat Monumenta** contains all of the mods I personally use when playing on Monumenta. This modpack features several QoL mods such as the Unofficial Monumenta Mod, Better Advancements, and Better Ping Display. Since I prefer fast loading times and I dislike Essential, this modpack does not feature U5B's [USBPlus](https://github.com/U5B/usbplus) mod for the time being. If it is your first time installing a Fabric modpack, check out the [wiki](https://github.com/Spy21DD/spys-monumenta-modpacks/wiki) for a step-by-step tutorial on how to set one up.
 
-This modpack is currently in beta while I fine-tune the mod set and update the default configuration files. Feel free to suggest additional mods not mentioned on the [Honorable Mentions](https://github.com/Spy21DD/spys-monumenta-modpacks/wiki/Appendix-A-%E2%80%90-Honorable-Mentions,-or-Mods-I-Didn't-Include) page!
+This modpack is in full release! Feel free to suggest additional mods not mentioned on the [Honorable Mentions](https://github.com/Spy21DD/spys-monumenta-modpacks/wiki/Appendix-A-%E2%80%90-Honorable-Mentions,-or-Mods-I-Didn't-Include) page!
 
 ## Acknowledgements
 This repository does not contain any code or binary files of the constituent modifications to prevent licensing issues; rather it contains the configuration and metadata files that are packed into the .mrpack installation archive that I will update from time to time.
