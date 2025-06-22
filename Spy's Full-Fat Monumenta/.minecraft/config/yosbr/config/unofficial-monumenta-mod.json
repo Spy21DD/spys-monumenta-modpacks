@@ -67,7 +67,10 @@
     "cleric/holy javelin",
     "cleric/illuminate",
     "cleric/luminous infusion",
-    "cleric/divine justice"
+    "cleric/divine justice",
+    "alchemist/alchemist potion",
+    "alchemist/energizing elixir",
+    "alchemist/unstable amalgam"
   ],
   "discordEnabled": true,
   "discordDetails": "{player} is in {shard}",
