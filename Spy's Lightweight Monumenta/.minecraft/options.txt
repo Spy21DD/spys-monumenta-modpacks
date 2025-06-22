@@ -44,8 +44,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/MonumentaRP_v5.3.0.zip","file/MonumentaMusicPack_v2.6.0.zip"]
-incompatibleResourcePacks:["yet_another_config_lib_v3","file/MonumentaRP_v5.3.0.zip","file/MonumentaMusicPack_v2.6.0.zip"]
+resourcePacks:["vanilla","fabric","file/MonumentaRP_v5.7.0.zip","file/MonumentaMusicPack_v3.4.0.zip"]
+incompatibleResourcePacks:[]
 lastServer:server.playmonumenta.com
 lang:en_us
 soundDevice:""
@@ -124,7 +124,7 @@ key_key.modmenu.open_menu:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.r
 key_zoomify.key.zoom.secondary:key.keyboard.f6
 soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
