@@ -1,4 +1,4 @@
-filename = 'fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar'
+filename = 'fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar'
 name = 'Fabric Language Kotlin'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -36,20 +36,25 @@ x-prismlauncher-mc-versions = [
     '1.20.6',
     '1.21',
     '1.21.1',
+    '1.21.10',
+    '1.21.11',
     '1.21.2',
     '1.21.3',
     '1.21.4',
     '1.21.5',
-    '1.21.6'
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9'
 ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '805eb96067560fa8acc8fcc7dbfba4ad8eed1a2bc9b46566e184f122533fdff844288f3df635762e1af927a4efe8989e9f11007a24bcdc73a32fc2dbebd720c3'
+hash = '90bf59f810ea62363bdd7b2ce85a6268b7db67d6d4ce5ae6555204bc7eff0446a6e17d60ef51ad41bf85e92ca430043a8f7c21157cbaee9279733304605cc4d0'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Ha28R6CL/versions/iqWDz8qt/fabric-language-kotlin-1.13.3%2Bkotlin.2.1.21.jar'
+url = 'https://cdn.modrinth.com/data/Ha28R6CL/versions/N6D3uiZF/fabric-language-kotlin-1.13.8%2Bkotlin.2.3.0.jar'
 
 [update.modrinth]
 mod-id = 'Ha28R6CL'
-version = 'iqWDz8qt'
+version = 'N6D3uiZF'
