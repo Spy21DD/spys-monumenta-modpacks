@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -44,8 +44,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/MonumentaRP_v5.7.0.zip","file/MonumentaMusicPack_v3.4.0.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","file/MonumentaRP_v5.10.0.zip","file/MonumentaMusicPack3.7.0.zip"]
+incompatibleResourcePacks:["entity_model_features","entity_texture_features","yet_another_config_lib_v3"]
 lastServer:server.playmonumenta.com
 lang:en_us
 soundDevice:""
