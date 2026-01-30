@@ -3,7 +3,6 @@
         {
             "cachedName": "LWJGL 3",
             "cachedVersion": "3.3.3",
-            "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl3",
             "version": "3.3.3"
@@ -30,7 +29,6 @@
                 }
             ],
             "cachedVersion": "1.20.4",
-            "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "net.fabricmc.intermediary",
             "version": "1.20.4"
@@ -42,9 +40,9 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "cachedVersion": "0.16.14",
+            "cachedVersion": "0.18.4",
             "uid": "net.fabricmc.fabric-loader",
-            "version": "0.16.14"
+            "version": "0.18.4"
         }
     ],
     "formatVersion": 1

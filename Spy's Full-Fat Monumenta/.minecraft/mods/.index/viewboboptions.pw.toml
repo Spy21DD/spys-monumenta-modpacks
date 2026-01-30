@@ -1,4 +1,4 @@
-filename = 'viewboboptions-0.3.0+1.20.3.jar'
+filename = 'viewboboptions-0.4.0+1.20.3.jar'
 name = 'View Bobbing Options'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.3', '1.20.4' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '2d45cf5ad9365e90a6ce0f4a50c752f7b5689f6ff47d6c196ab47e459bfe6409fd4e88c1ebfc1c1308a909ef82f808f03b9a60d07a5a7fe6d9b7a67336be9c8a'
+hash = 'c0ee7d977c903585ccefda0f546813b07797ff44a513a13794d54f429e4648e32ff25549b44011833b24e22cf1bacb6c98a9edcfb0043389a055dfdc137dbae8'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Yr9J16k6/versions/9x0ymHYH/viewboboptions-0.3.0%2B1.20.3.jar'
+url = 'https://cdn.modrinth.com/data/Yr9J16k6/versions/4hXefzfy/viewboboptions-0.4.0%2B1.20.3.jar'
 
 [update.modrinth]
 mod-id = 'Yr9J16k6'
-version = '9x0ymHYH'
+version = '4hXefzfy'

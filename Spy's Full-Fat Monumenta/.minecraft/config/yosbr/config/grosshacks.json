@@ -10,7 +10,7 @@
     "hideHandheld": false,
     "extraButtons": true,
     "disableInteractions": false,
-    "fixMountDesync": true,
+    "fixMountDesync": false,
     "rebindDismounting": false,
     "nightmareTimer": false,
     "timeRemaining": 60,

@@ -44,8 +44,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/MonumentaMusicPack_v3.4.0.zip","file/MonumentaRP_v5.7.0.zip"]
-incompatibleResourcePacks:["betteradvancements","modernfix","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","file/MonumentaMusicPack3.7.0.zip","file/MonumentaRP_v5.10.0.zip"]
+incompatibleResourcePacks:["betteradvancements","entity_model_features","entity_texture_features","modernfix","yet_another_config_lib_v3"]
 lastServer:server.playmonumenta.com
 lang:en_us
 soundDevice:""
