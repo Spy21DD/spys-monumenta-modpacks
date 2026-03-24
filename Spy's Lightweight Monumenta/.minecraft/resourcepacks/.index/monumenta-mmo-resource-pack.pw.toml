@@ -1,0 +1,17 @@
+filename = 'MonumentaRP_v5.11.0.zip'
+name = 'Monumenta MMO Resource Pack'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.4', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.11.0'
+
+[download]
+hash = '0228350ee00bf6f3d1317622a2fe572195bd8935cdc84878a8b8daf9047f93a43b0a3f679138dbcf1c041b04d0a6ff0c5aaa9c95e74172a747503f72fd583a6b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Yj53Rs56/versions/J29N7atm/MonumentaRP_v5.11.0.zip'
+
+[update.modrinth]
+mod-id = 'Yj53Rs56'
+version = 'J29N7atm'
